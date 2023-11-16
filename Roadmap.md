@@ -9,12 +9,12 @@
 
 **SPRINT 2**
 
-[] update with commit messages
-[] minimum of 6 code changes
-[] include SPECIFIC comments
-[] document changes in roadmap
+- [ ] update with commit messages
+- [ ] minimum of 6 code changes
+- [ ] include SPECIFIC comments
+- [ ] document changes in roadmap
 
 **SPRINT 3**
 
-[] test and edit code
-[] PowerPoint slide on project
+- [ ] test and edit code
+- [ ] PowerPoint slide on project
