@@ -1,0 +1,3 @@
+# HolySound
+
+A Holy Sound is an application where music looks to the Holiest of holies. It is a place where Christians can enjoy Christian specific music. It's your Apple Music or Spotify but tailored to Christian Men and Women. The music options range from Christian Contemporary Music, to Gospel, to Christian Rap, r&b, and even country. The goal is to give users a platform for their worship. To put myself in a user's shoes, when I'm in a worship mood, whether I put my playlist on shuffle, or just go through the explorre page, I know I'll find music that glorifies the King so I can live in that worship. 
