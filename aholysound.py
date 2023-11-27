@@ -1,5 +1,7 @@
 import random
 
+
+#identify music genre selections for the user
 class HolySoundApp:
     def __init__(self):
         self.music_library = {
@@ -10,6 +12,7 @@ class HolySoundApp:
             "Christian Country": ["Song13", "Song14", "Song15"],
         }
 
+    #show what happens when a user selects a certain genre of a song to play
     def play_random_song(self, genre=None):
         if genre:
             if genre in self.music_library:
@@ -23,7 +26,9 @@ class HolySoundApp:
                 print(f"Invalid genre: {genre}")
         else:
             print("Please specify a genre to play.")
+            
 
+    #give the user the option to use the explore page and search for different songs
     def explore_music(self):
         print("Explore Page:")
         for genre, playlist in self.music_library.items():
